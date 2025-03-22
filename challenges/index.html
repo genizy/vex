@@ -32,7 +32,9 @@
             }
             document.body.appendChild(s);
         }
-        addScript(gameName, Date.now(), function() {});
+        addScript('version.js', Date.now(), function() {
+            addScript(gameName, Date.now(), function() {});
+        });
     </script>
 </body>
 
