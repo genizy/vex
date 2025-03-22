@@ -1,0 +1,36 @@
+{
+    "__comment_skins": "id, price -> if price < 0 then you need whatch reward ad for unlock skin",
+    "coinsForAD": 50,
+    "completeLevelsForOpenSkinAfterWin": 5,
+    "lives": {
+        "default": 10,
+        "forAD": 10,
+        "timerSecForOne": 60
+    },
+    "skins": [
+        ["vex", 0],
+        ["blue", 700],
+        ["yellow", 1500],
+        ["torpedo", -4],
+        ["foam", 1500],
+        ["grey", 1000],
+        ["eve", -3],
+        ["pink", 2000],
+        ["waterbike", 2000],
+        ["duck", -3],
+        ["rescue", 2500],
+        ["mad", -3],
+        ["kid", 700],
+        ["lego", 500],
+        ["scooter", 500],
+        ["gold-sport", -2],
+        ["tron", 700],
+        ["police", 1500],
+        ["valentines", 2300],
+        ["dino", -3],
+        ["christmas", 5000],
+        ["future", 1300],
+        ["halloween", -4],
+        ["dragon", -3]
+    ]
+}
